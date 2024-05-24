@@ -1,0 +1,35 @@
+LİNK:https://preview.colorlib.com/#timezone
+
+
+3.BILET
+Layihə Tələblər:
+ - Home və Add səhifələri React ilə yığılacaq.
+ - Front-end tərəfdə tələb olunanlar 
+    - Responsive(Desktop,Mobil)-20bal
+    - Routing-15bal
+    - Wishlist-15bal
+    - Detail Page-5 bal
+    - Search by Name -15
+- Back-end hissəsində tələb olunanlar 
+    - MongoDB Configuration - CRUD (GET,POST,DELETE) - with Node(ExpressJS) -30bal
+Əlavələr: 
+- Scss istifadəsi
+- Basket
+- Helmet
+- Formik-Yup
+- Filter (Default,A-Z,Z-A,Price)
+
+****Əsaslar mütləq yazılmalıdır.Əsaslardan hər hansı birində səhvlik olarsa o zaman yazdığınız əlavələrin balı üstünə gələcək.
+Yəni siz əsaslar ilə əlavələrin yerin dəyişə bilmərsiz!!!
+
+
+
+Qeyd:Context vəya Redux istifadə edəcəksiz.Qara və ya Ağ çərçivədəki(Choose the best
+color for your activity bu yazı olan) section CRUD yazacaqsiz.Add page`ində isə navbar footer form və table olacaq.
+Form ilə input doldurulub submit olunduqda datalar mongodb əlavə olacaq.Add Page Admin panel kimi istifadə edəcəksiz.
+Add Pagedəki Table datalarin Listi olacaq(get methodu ilə həm Home Pagedə,həmdə Add Pagedə tableda dataların listi olacaq).
+Hər bir datanın qarşısında delete buttonu olacaq. 
+Tableda Search inputu olacaq.Name görə search edəcəksiz.
+Responsivelikdə Mobil,Desktop olacaq.Yəni atilan linkdə yuxarda mobil və Desktop üçün olana baxib yigacaqsiz.
+Ui`lardan istifadə edə bilərsiniz amma responsivlik üçün.Grid vəya col kimi.Hazir card navbar footer kimi hazir komponentlər götürə bilmərsiz.
+
